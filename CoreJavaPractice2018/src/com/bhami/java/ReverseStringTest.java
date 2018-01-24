@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class ReverseStringTest {
 
 	public static void main(String[] args) {
+		System.out.println("Adding test1");
 		String inStr = "How are you";
 		
 		
